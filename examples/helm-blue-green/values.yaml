@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: asifrahimmalik/abtesting
-  tag: v2.0
+  tag: v1.0
   pullPolicy: IfNotPresent
 
 service:
