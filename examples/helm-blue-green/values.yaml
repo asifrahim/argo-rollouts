@@ -5,9 +5,9 @@
 replicaCount: 1
 
 image:
-  #repository: gcr.io/heptio-images/ks-guestbook-demo
-  repository: asifrahimmalik/abtesting
-  tag: 0.2
+  repository: gcr.io/heptio-images/ks-guestbook-demo
+  #repository: asifrahimmalik/abtesting
+  tag: 0.1
   pullPolicy: IfNotPresent
 
 service:
